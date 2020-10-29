@@ -1,6 +1,6 @@
-Because the Stewart platform is a closed loop manipulator, the description was written in SDF rather than URDF. However, ROS does not support SDF by default, so a plugin was written to make the joints in Gazebo visible to ROS.
+![](https://github.com/daniel-s-ingram/stewart/blob/master/gif/stewart.gif)
 
-A video of Stewart: https://drive.google.com/file/d/19_pbGBhv_6Z4hBBUDaK23lttlcqpRheH/view?usp=sharing
+Because the Stewart platform is a closed loop manipulator, the description was written in SDF rather than URDF. However, ROS does not support SDF by default, so a plugin was written to make the joints in Gazebo visible to ROS.
 
 Here is a link to an in-progress generalized version of this plugin: https://github.com/daniel-s-ingram/ros_sdf.
 
